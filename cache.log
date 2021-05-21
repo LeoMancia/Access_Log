@@ -1,0 +1,1002 @@
+2021/05/21 11:38:56| Created PID file (/var/run/squid.pid)
+2021/05/21 11:38:56 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 11:38:56 kid1| Creating missing swap directories
+2021/05/21 11:38:56 kid1| No cache_dir stores are configured.
+2021/05/21 11:38:57| Removing PID file (/var/run/squid.pid)
+2021/05/21 11:38:57| Created PID file (/var/run/squid.pid)
+2021/05/21 11:38:57 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 11:38:57 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 11:38:57 kid1| Service Name: squid
+2021/05/21 11:38:57 kid1| Process ID 1271
+2021/05/21 11:38:57 kid1| Process Roles: worker
+2021/05/21 11:38:57 kid1| With 1024 file descriptors available
+2021/05/21 11:38:57 kid1| Initializing IP Cache...
+2021/05/21 11:38:57 kid1| DNS Socket created at [::], FD 5
+2021/05/21 11:38:57 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 11:38:57 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 11:38:57 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 11:38:57 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 11:38:57 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 11:38:57 kid1| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2021/05/21 11:38:57 kid1| Store logging disabled
+2021/05/21 11:38:57 kid1| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2021/05/21 11:38:57 kid1| Target number of buckets: 1008
+2021/05/21 11:38:57 kid1| Using 8192 Store buckets
+2021/05/21 11:38:57 kid1| Max Mem  size: 262144 KB
+2021/05/21 11:38:57 kid1| Max Swap size: 0 KB
+2021/05/21 11:38:57 kid1| Using Least Load store dir selection
+2021/05/21 11:38:57 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 11:38:57 kid1| Finished loading MIME types and icons.
+2021/05/21 11:38:57 kid1| HTCP Disabled.
+2021/05/21 11:38:57 kid1| Pinger socket opened on FD 14
+2021/05/21 11:38:57 kid1| Squid plugin modules loaded: 0
+2021/05/21 11:38:57 kid1| Adaptation support is off.
+2021/05/21 11:38:57 kid1| Accepting HTTP Socket connections at local=[::]:3128 remote=[::] FD 12 flags=9
+2021/05/21 11:38:57| pinger: Initialising ICMP pinger ...
+2021/05/21 11:38:57| pinger: ICMP socket opened.
+2021/05/21 11:38:57| pinger: ICMPv6 socket opened
+2021/05/21 11:38:58 kid1| storeLateRelease: released 0 objects
+2021/05/21 12:24:22 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2021/05/21 12:24:22 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2021/05/21 12:24:22 kid1| NETDB state saved; 0 entries, 0 msec
+2021/05/21 12:27:13 kid1| Preparing for shutdown after 0 requests
+2021/05/21 12:27:13 kid1| Waiting 30 seconds for active connections to finish
+2021/05/21 12:27:13 kid1| Closing HTTP(S) port [::]:3128
+2021/05/21 12:27:13 kid1| Closing Pinger socket on FD 14
+2021/05/21 12:27:13| Pinger exiting.
+2021/05/21 12:27:44 kid1| Shutdown: NTLM authentication.
+2021/05/21 12:27:44 kid1| Shutdown: Negotiate authentication.
+2021/05/21 12:27:44 kid1| Shutdown: Digest authentication.
+2021/05/21 12:27:44 kid1| Shutdown: Basic authentication.
+2021/05/21 12:27:44 kid1| Shutting down...
+2021/05/21 12:27:44 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 12:27:44 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 12:27:44 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+CPU Usage: 0.539 seconds = 0.378 user + 0.162 sys
+Maximum Resident Size: 94592 KB
+Page faults with physical i/o: 0
+2021/05/21 12:27:44 kid1| Logfile: closing log daemon:/var/log/squid/access.log
+2021/05/21 12:27:44 kid1| Logfile Daemon: closing log daemon:/var/log/squid/access.log
+2021/05/21 12:27:44 kid1| Open FD UNSTARTED    10 IPC UNIX STREAM Parent
+2021/05/21 12:27:44 kid1| Squid Cache (Version 4.6): Exiting normally.
+2021/05/21 12:27:44| Removing PID file (/var/run/squid.pid)
+2021/05/21 12:27:49| Created PID file (/var/run/squid.pid)
+2021/05/21 12:27:54 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 12:27:54 kid1| Creating missing swap directories
+2021/05/21 12:27:54 kid1| No cache_dir stores are configured.
+2021/05/21 12:27:54| Removing PID file (/var/run/squid.pid)
+2021/05/21 12:27:58| Created PID file (/var/run/squid.pid)
+2021/05/21 12:28:03 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 12:28:03 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 12:28:03 kid1| Service Name: squid
+2021/05/21 12:28:03 kid1| Process ID 1965
+2021/05/21 12:28:03 kid1| Process Roles: worker
+2021/05/21 12:28:03 kid1| With 1024 file descriptors available
+2021/05/21 12:28:03 kid1| Initializing IP Cache...
+2021/05/21 12:28:03 kid1| DNS Socket created at [::], FD 5
+2021/05/21 12:28:03 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 12:28:03 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 12:28:03 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 12:28:03 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 12:28:03 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 12:28:03 kid1| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2021/05/21 12:28:03 kid1| Store logging disabled
+2021/05/21 12:28:03 kid1| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2021/05/21 12:28:03 kid1| Target number of buckets: 1008
+2021/05/21 12:28:03 kid1| Using 8192 Store buckets
+2021/05/21 12:28:03 kid1| Max Mem  size: 262144 KB
+2021/05/21 12:28:03 kid1| Max Swap size: 0 KB
+2021/05/21 12:28:03 kid1| Using Least Load store dir selection
+2021/05/21 12:28:03 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 12:28:03 kid1| Finished loading MIME types and icons.
+2021/05/21 12:28:03 kid1| HTCP Disabled.
+2021/05/21 12:28:03 kid1| Pinger socket opened on FD 15
+2021/05/21 12:28:03 kid1| Squid plugin modules loaded: 0
+2021/05/21 12:28:03 kid1| Adaptation support is off.
+2021/05/21 12:28:03 kid1| Accepting HTTP Socket connections at local=[::]:3128 remote=[::] FD 12 flags=9
+2021/05/21 12:28:03 kid1| Accepting HTTP Socket connections at local=[::]:8080 remote=[::] FD 13 flags=9
+2021/05/21 12:28:03| pinger: Initialising ICMP pinger ...
+2021/05/21 12:28:03| pinger: ICMP socket opened.
+2021/05/21 12:28:03| pinger: ICMPv6 socket opened
+2021/05/21 12:28:04 kid1| storeLateRelease: released 0 objects
+2021/05/21 12:39:12| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:80e::2003]: (101) Network is unreachable
+2021/05/21 12:39:12| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:804::200d]: (101) Network is unreachable
+2021/05/21 12:39:17| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:800::2004]: (101) Network is unreachable
+2021/05/21 12:39:18| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:802::2003]: (101) Network is unreachable
+2021/05/21 12:39:20| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:80d::2003]: (101) Network is unreachable
+2021/05/21 12:39:21| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:803::2003]: (101) Network is unreachable
+2021/05/21 12:39:44| SendEcho ERROR: sending to ICMPv6 packet to [2620:1ec:c11::200]: (101) Network is unreachable
+2021/05/21 13:01:56| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:802::200e]: (101) Network is unreachable
+2021/05/21 13:13:28 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2021/05/21 13:13:28 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2021/05/21 13:13:28 kid1| NETDB state saved; 7 entries, 1 msec
+2021/05/21 13:30:59| SendEcho ERROR: sending to ICMPv6 packet to [2600:1403:5400:584::611]: (101) Network is unreachable
+2021/05/21 13:31:04| SendEcho ERROR: sending to ICMPv6 packet to [2603:1030:c04:3::e0]: (101) Network is unreachable
+2021/05/21 13:31:17| SendEcho ERROR: sending to ICMPv6 packet to [2620:1ec:c11::200]: (101) Network is unreachable
+2021/05/21 13:33:36| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:813::2003]: (101) Network is unreachable
+2021/05/21 13:33:36| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:800::200d]: (101) Network is unreachable
+2021/05/21 13:33:50| SendEcho ERROR: sending to ICMPv6 packet to [2620:1ec:42::132]: (101) Network is unreachable
+2021/05/21 13:33:56| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:801::200a]: (101) Network is unreachable
+2021/05/21 13:34:02| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:80e::2003]: (101) Network is unreachable
+2021/05/21 13:34:05| SendEcho ERROR: sending to ICMPv6 packet to [2600:1403:5400:5b9::25bb]: (101) Network is unreachable
+2021/05/21 13:34:08| SendEcho ERROR: sending to ICMPv6 packet to [2620:1ec:bdf::57]: (101) Network is unreachable
+2021/05/21 13:34:19| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:80d::2003]: (101) Network is unreachable
+2021/05/21 13:34:24| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:811::200a]: (101) Network is unreachable
+2021/05/21 13:35:14| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:810::2010]: (101) Network is unreachable
+2021/05/21 13:35:17| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:812::200e]: (101) Network is unreachable
+2021/05/21 13:35:26| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:400c:c0d::9c]: (101) Network is unreachable
+2021/05/21 13:40:39| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:80e::2003]: (101) Network is unreachable
+2021/05/21 13:40:39| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:804::200d]: (101) Network is unreachable
+2021/05/21 13:40:41| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:800::2004]: (101) Network is unreachable
+2021/05/21 13:40:47| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:803::2003]: (101) Network is unreachable
+2021/05/21 13:41:11| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:801::200a]: (101) Network is unreachable
+2021/05/21 13:41:11| SendEcho ERROR: sending to ICMPv6 packet to [2a03:90c0:9996::9996]: (101) Network is unreachable
+2021/05/21 13:41:11| SendEcho ERROR: sending to ICMPv6 packet to [2600:1901:0:2453::]: (101) Network is unreachable
+2021/05/21 13:41:14| SendEcho ERROR: sending to ICMPv6 packet to [2600:9000:20a4:4e00:4:cd76:8580:93a1]: (101) Network is unreachable
+2021/05/21 13:41:14| SendEcho ERROR: sending to ICMPv6 packet to [2606:4700::6812:778]: (101) Network is unreachable
+2021/05/21 13:41:14| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:806::2008]: (101) Network is unreachable
+2021/05/21 13:41:16| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:80d::200a]: (101) Network is unreachable
+2021/05/21 13:41:53 kid1| Preparing for shutdown after 1026 requests
+2021/05/21 13:41:53 kid1| Waiting 30 seconds for active connections to finish
+2021/05/21 13:41:53 kid1| Closing HTTP(S) port [::]:3128
+2021/05/21 13:41:53 kid1| Closing HTTP(S) port [::]:8080
+2021/05/21 13:41:53 kid1| Closing Pinger socket on FD 15
+2021/05/21 13:42:04| Pinger exiting.
+2021/05/21 13:42:24 kid1| Shutdown: NTLM authentication.
+2021/05/21 13:42:24 kid1| Shutdown: Negotiate authentication.
+2021/05/21 13:42:24 kid1| Shutdown: Digest authentication.
+2021/05/21 13:42:24 kid1| Shutdown: Basic authentication.
+2021/05/21 13:42:24 kid1| Shutting down...
+2021/05/21 13:42:24 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 13:42:24 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 13:42:24 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+CPU Usage: 385.983 seconds = 352.302 user + 33.681 sys
+Maximum Resident Size: 4122448 KB
+Page faults with physical i/o: 5
+2021/05/21 13:42:24 kid1| Logfile: closing log daemon:/var/log/squid/access.log
+2021/05/21 13:42:24 kid1| Logfile Daemon: closing log daemon:/var/log/squid/access.log
+2021/05/21 13:42:24 kid1| Open FD UNSTARTED    10 IPC UNIX STREAM Parent
+2021/05/21 13:42:24 kid1| Squid Cache (Version 4.6): Exiting normally.
+2021/05/21 13:42:24| Removing PID file (/var/run/squid.pid)
+2021/05/21 13:42:29| Created PID file (/var/run/squid.pid)
+2021/05/21 13:42:33 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:42:33 kid1| Creating missing swap directories
+2021/05/21 13:42:33 kid1| No cache_dir stores are configured.
+2021/05/21 13:42:33| Removing PID file (/var/run/squid.pid)
+2021/05/21 13:42:38| Created PID file (/var/run/squid.pid)
+2021/05/21 13:42:43 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:42:43 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 13:42:43 kid1| Service Name: squid
+2021/05/21 13:42:43 kid1| Process ID 2258
+2021/05/21 13:42:43 kid1| Process Roles: worker
+2021/05/21 13:42:43 kid1| With 1024 file descriptors available
+2021/05/21 13:42:43 kid1| Initializing IP Cache...
+2021/05/21 13:42:43 kid1| DNS Socket created at [::], FD 5
+2021/05/21 13:42:43 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 13:42:43 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 13:42:43 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 13:42:43 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 13:42:43 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 13:42:43 kid1| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2021/05/21 13:42:43 kid1| Store logging disabled
+2021/05/21 13:42:43 kid1| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2021/05/21 13:42:43 kid1| Target number of buckets: 1008
+2021/05/21 13:42:43 kid1| Using 8192 Store buckets
+2021/05/21 13:42:43 kid1| Max Mem  size: 262144 KB
+2021/05/21 13:42:43 kid1| Max Swap size: 0 KB
+2021/05/21 13:42:43 kid1| Using Least Load store dir selection
+2021/05/21 13:42:43 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:42:43 kid1| Finished loading MIME types and icons.
+2021/05/21 13:42:43 kid1| HTCP Disabled.
+2021/05/21 13:42:43 kid1| Pinger socket opened on FD 15
+2021/05/21 13:42:43 kid1| Squid plugin modules loaded: 0
+2021/05/21 13:42:43 kid1| Adaptation support is off.
+2021/05/21 13:42:43 kid1| Accepting HTTP Socket connections at local=[::]:3128 remote=[::] FD 12 flags=9
+2021/05/21 13:42:43 kid1| Accepting HTTP Socket connections at local=[::]:8080 remote=[::] FD 13 flags=9
+2021/05/21 13:42:43| pinger: Initialising ICMP pinger ...
+2021/05/21 13:42:43| pinger: ICMP socket opened.
+2021/05/21 13:42:43| pinger: ICMPv6 socket opened
+2021/05/21 13:42:44 kid1| storeLateRelease: released 0 objects
+2021/05/21 13:43:04| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:80e::2003]: (101) Network is unreachable
+2021/05/21 13:43:04| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:804::200d]: (101) Network is unreachable
+2021/05/21 13:43:06| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:800::2004]: (101) Network is unreachable
+2021/05/21 13:43:23| SendEcho ERROR: sending to ICMPv6 packet to [2a03:90c0:9996::9996]: (101) Network is unreachable
+2021/05/21 13:43:24| SendEcho ERROR: sending to ICMPv6 packet to [2600:1901:0:2453::]: (101) Network is unreachable
+2021/05/21 13:43:25| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:803::2003]: (101) Network is unreachable
+2021/05/21 13:43:25| SendEcho ERROR: sending to ICMPv6 packet to [2600:9000:20a4:9200:4:cd76:8580:93a1]: (101) Network is unreachable
+2021/05/21 13:43:26| SendEcho ERROR: sending to ICMPv6 packet to [2606:4700:3031::ac43:8f3a]: (101) Network is unreachable
+2021/05/21 13:43:26| SendEcho ERROR: sending to ICMPv6 packet to [2606:4700::6812:678]: (101) Network is unreachable
+2021/05/21 13:43:33| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:811::200a]: (101) Network is unreachable
+2021/05/21 13:43:33| SendEcho ERROR: sending to ICMPv6 packet to [2606:4700:3033::6815:1b9d]: (101) Network is unreachable
+2021/05/21 13:43:35| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:400c:c0c::9d]: (101) Network is unreachable
+2021/05/21 13:43:35| SendEcho ERROR: sending to ICMPv6 packet to [2606:4700:10::6814:b944]: (101) Network is unreachable
+2021/05/21 13:43:42| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:80d::200a]: (101) Network is unreachable
+2021/05/21 13:43:47| SendEcho ERROR: sending to ICMPv6 packet to [2620:1ec:c11::200]: (101) Network is unreachable
+2021/05/21 13:44:10| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:813::2003]: (101) Network is unreachable
+2021/05/21 13:45:07 kid1| Preparing for shutdown after 22 requests
+2021/05/21 13:45:07 kid1| Waiting 30 seconds for active connections to finish
+2021/05/21 13:45:07 kid1| Closing HTTP(S) port [::]:3128
+2021/05/21 13:45:07 kid1| Closing HTTP(S) port [::]:8080
+2021/05/21 13:45:07 kid1| Closing Pinger socket on FD 15
+2021/05/21 13:45:16| Pinger exiting.
+2021/05/21 13:45:38 kid1| Shutdown: NTLM authentication.
+2021/05/21 13:45:38 kid1| Shutdown: Negotiate authentication.
+2021/05/21 13:45:38 kid1| Shutdown: Digest authentication.
+2021/05/21 13:45:38 kid1| Shutdown: Basic authentication.
+2021/05/21 13:45:38 kid1| Shutting down...
+2021/05/21 13:45:38 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 13:45:38 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 13:45:38 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+CPU Usage: 28.162 seconds = 25.199 user + 2.963 sys
+Maximum Resident Size: 3725392 KB
+Page faults with physical i/o: 0
+2021/05/21 13:45:38 kid1| Logfile: closing log daemon:/var/log/squid/access.log
+2021/05/21 13:45:38 kid1| Logfile Daemon: closing log daemon:/var/log/squid/access.log
+2021/05/21 13:45:38 kid1| Open FD UNSTARTED    10 IPC UNIX STREAM Parent
+2021/05/21 13:45:38 kid1| Squid Cache (Version 4.6): Exiting normally.
+2021/05/21 13:45:38| Removing PID file (/var/run/squid.pid)
+2021/05/21 13:45:43| Created PID file (/var/run/squid.pid)
+2021/05/21 13:45:47 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:45:47 kid1| Creating missing swap directories
+2021/05/21 13:45:47 kid1| No cache_dir stores are configured.
+2021/05/21 13:45:47| Removing PID file (/var/run/squid.pid)
+2021/05/21 13:45:51| Created PID file (/var/run/squid.pid)
+2021/05/21 13:45:55 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:45:55 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 13:45:55 kid1| Service Name: squid
+2021/05/21 13:45:55 kid1| Process ID 2295
+2021/05/21 13:45:55 kid1| Process Roles: worker
+2021/05/21 13:45:55 kid1| With 1024 file descriptors available
+2021/05/21 13:45:55 kid1| Initializing IP Cache...
+2021/05/21 13:45:55 kid1| DNS Socket created at [::], FD 5
+2021/05/21 13:45:55 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 13:45:55 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 13:45:55 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 13:45:55 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 13:45:55 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 13:45:55 kid1| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2021/05/21 13:45:55 kid1| Store logging disabled
+2021/05/21 13:45:55 kid1| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2021/05/21 13:45:55 kid1| Target number of buckets: 1008
+2021/05/21 13:45:55 kid1| Using 8192 Store buckets
+2021/05/21 13:45:55 kid1| Max Mem  size: 262144 KB
+2021/05/21 13:45:55 kid1| Max Swap size: 0 KB
+2021/05/21 13:45:55 kid1| Using Least Load store dir selection
+2021/05/21 13:45:55 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:45:55 kid1| Finished loading MIME types and icons.
+2021/05/21 13:45:55 kid1| HTCP Disabled.
+2021/05/21 13:45:55 kid1| Pinger socket opened on FD 15
+2021/05/21 13:45:55 kid1| Squid plugin modules loaded: 0
+2021/05/21 13:45:55 kid1| Adaptation support is off.
+2021/05/21 13:45:55 kid1| Accepting HTTP Socket connections at local=[::]:3128 remote=[::] FD 12 flags=9
+2021/05/21 13:45:55 kid1| Accepting HTTP Socket connections at local=[::]:8080 remote=[::] FD 13 flags=9
+2021/05/21 13:45:55| pinger: Initialising ICMP pinger ...
+2021/05/21 13:45:55| pinger: ICMP socket opened.
+2021/05/21 13:45:55| pinger: ICMPv6 socket opened
+2021/05/21 13:45:56 kid1| storeLateRelease: released 0 objects
+2021/05/21 13:49:22 kid1| Preparing for shutdown after 132 requests
+2021/05/21 13:49:22 kid1| Waiting 30 seconds for active connections to finish
+2021/05/21 13:49:22 kid1| Closing HTTP(S) port [::]:3128
+2021/05/21 13:49:22 kid1| Closing HTTP(S) port [::]:8080
+2021/05/21 13:49:22 kid1| Closing Pinger socket on FD 15
+2021/05/21 13:49:34| Pinger exiting.
+2021/05/21 13:49:53 kid1| Shutdown: NTLM authentication.
+2021/05/21 13:49:53 kid1| Shutdown: Negotiate authentication.
+2021/05/21 13:49:53 kid1| Shutdown: Digest authentication.
+2021/05/21 13:49:53 kid1| Shutdown: Basic authentication.
+2021/05/21 13:49:53 kid1| Shutting down...
+2021/05/21 13:49:53 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 13:49:53 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 13:49:53 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+CPU Usage: 37.222 seconds = 33.941 user + 3.280 sys
+Maximum Resident Size: 3818464 KB
+Page faults with physical i/o: 0
+2021/05/21 13:49:53 kid1| Logfile: closing log daemon:/var/log/squid/access.log
+2021/05/21 13:49:53 kid1| Logfile Daemon: closing log daemon:/var/log/squid/access.log
+2021/05/21 13:49:53 kid1| Open FD UNSTARTED    10 IPC UNIX STREAM Parent
+2021/05/21 13:49:53 kid1| Squid Cache (Version 4.6): Exiting normally.
+2021/05/21 13:49:53| Removing PID file (/var/run/squid.pid)
+2021/05/21 13:49:59| Created PID file (/var/run/squid.pid)
+2021/05/21 13:50:05 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:50:05 kid1| Creating missing swap directories
+2021/05/21 13:50:05 kid1| No cache_dir stores are configured.
+2021/05/21 13:50:05| Removing PID file (/var/run/squid.pid)
+2021/05/21 13:50:11| Created PID file (/var/run/squid.pid)
+2021/05/21 13:50:15 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:50:15 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 13:50:15 kid1| Service Name: squid
+2021/05/21 13:50:15 kid1| Process ID 2331
+2021/05/21 13:50:15 kid1| Process Roles: worker
+2021/05/21 13:50:15 kid1| With 1024 file descriptors available
+2021/05/21 13:50:15 kid1| Initializing IP Cache...
+2021/05/21 13:50:15 kid1| DNS Socket created at [::], FD 5
+2021/05/21 13:50:15 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 13:50:15 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 13:50:15 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 13:50:15 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 13:50:15 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 13:50:15 kid1| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2021/05/21 13:50:15 kid1| Store logging disabled
+2021/05/21 13:50:15 kid1| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2021/05/21 13:50:15 kid1| Target number of buckets: 1008
+2021/05/21 13:50:15 kid1| Using 8192 Store buckets
+2021/05/21 13:50:15 kid1| Max Mem  size: 262144 KB
+2021/05/21 13:50:15 kid1| Max Swap size: 0 KB
+2021/05/21 13:50:15 kid1| Using Least Load store dir selection
+2021/05/21 13:50:15 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:50:15 kid1| Finished loading MIME types and icons.
+2021/05/21 13:50:15 kid1| HTCP Disabled.
+2021/05/21 13:50:15 kid1| Pinger socket opened on FD 15
+2021/05/21 13:50:15 kid1| Squid plugin modules loaded: 0
+2021/05/21 13:50:15 kid1| Adaptation support is off.
+2021/05/21 13:50:15 kid1| Accepting HTTP Socket connections at local=[::]:3128 remote=[::] FD 12 flags=9
+2021/05/21 13:50:15 kid1| Accepting HTTP Socket connections at local=[::]:8080 remote=[::] FD 13 flags=9
+2021/05/21 13:50:15| pinger: Initialising ICMP pinger ...
+2021/05/21 13:50:15| pinger: ICMP socket opened.
+2021/05/21 13:50:15| pinger: ICMPv6 socket opened
+2021/05/21 13:50:16 kid1| storeLateRelease: released 0 objects
+2021/05/21 13:55:27 kid1| Preparing for shutdown after 92 requests
+2021/05/21 13:55:27 kid1| Waiting 30 seconds for active connections to finish
+2021/05/21 13:55:27 kid1| Closing HTTP(S) port [::]:3128
+2021/05/21 13:55:27 kid1| Closing HTTP(S) port [::]:8080
+2021/05/21 13:55:27 kid1| Closing Pinger socket on FD 15
+2021/05/21 13:55:34| Pinger exiting.
+2021/05/21 13:55:58 kid1| Shutdown: NTLM authentication.
+2021/05/21 13:55:58 kid1| Shutdown: Negotiate authentication.
+2021/05/21 13:55:58 kid1| Shutdown: Digest authentication.
+2021/05/21 13:55:58 kid1| Shutdown: Basic authentication.
+2021/05/21 13:55:58 kid1| Shutting down...
+2021/05/21 13:55:58 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 13:55:58 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 13:55:58 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+CPU Usage: 26.108 seconds = 22.682 user + 3.426 sys
+Maximum Resident Size: 3640160 KB
+Page faults with physical i/o: 0
+2021/05/21 13:55:58 kid1| Logfile: closing log daemon:/var/log/squid/access.log
+2021/05/21 13:55:58 kid1| Logfile Daemon: closing log daemon:/var/log/squid/access.log
+2021/05/21 13:55:58 kid1| Open FD UNSTARTED    10 IPC UNIX STREAM Parent
+2021/05/21 13:55:58 kid1| Squid Cache (Version 4.6): Exiting normally.
+2021/05/21 13:55:58| Removing PID file (/var/run/squid.pid)
+2021/05/21 13:56:08| Created PID file (/var/run/squid.pid)
+2021/05/21 13:56:18 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:56:18 kid1| Creating missing swap directories
+2021/05/21 13:56:18 kid1| No cache_dir stores are configured.
+2021/05/21 13:56:18| Removing PID file (/var/run/squid.pid)
+2021/05/21 13:56:27| Created PID file (/var/run/squid.pid)
+2021/05/21 13:56:41 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:56:41 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 13:56:41 kid1| Service Name: squid
+2021/05/21 13:56:41 kid1| Process ID 2382
+2021/05/21 13:56:41 kid1| Process Roles: worker
+2021/05/21 13:56:41 kid1| With 1024 file descriptors available
+2021/05/21 13:56:41 kid1| Initializing IP Cache...
+2021/05/21 13:56:41 kid1| DNS Socket created at [::], FD 5
+2021/05/21 13:56:41 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 13:56:41 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 13:56:41 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 13:56:41 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 13:56:41 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 13:56:41 kid1| ipcCreate: fork: (12) Cannot allocate memory
+2021/05/21 13:56:41 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 13:56:41 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 13:56:41 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2021/05/21 13:56:41 kid1| FATAL: Couldn't start logfile helper
+2021/05/21 13:56:41 kid1| Squid Cache (Version 4.6): Terminated abnormally.
+CPU Usage: 13.065 seconds = 11.852 user + 1.213 sys
+Maximum Resident Size: 3573888 KB
+Page faults with physical i/o: 120
+2021/05/21 13:57:00 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:57:00 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 13:57:00 kid1| Service Name: squid
+2021/05/21 13:57:00 kid1| Process ID 2401
+2021/05/21 13:57:00 kid1| Process Roles: worker
+2021/05/21 13:57:00 kid1| With 1024 file descriptors available
+2021/05/21 13:57:00 kid1| Initializing IP Cache...
+2021/05/21 13:57:00 kid1| DNS Socket created at [::], FD 5
+2021/05/21 13:57:00 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 13:57:00 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 13:57:00 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 13:57:00 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 13:57:00 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 13:57:00 kid1| ipcCreate: fork: (12) Cannot allocate memory
+2021/05/21 13:57:00 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 13:57:00 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 13:57:00 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2021/05/21 13:57:00 kid1| FATAL: Couldn't start logfile helper
+2021/05/21 13:57:00 kid1| Squid Cache (Version 4.6): Terminated abnormally.
+CPU Usage: 17.928 seconds = 15.744 user + 2.184 sys
+Maximum Resident Size: 3592672 KB
+Page faults with physical i/o: 53
+2021/05/21 13:57:16 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:57:16 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 13:57:16 kid1| Service Name: squid
+2021/05/21 13:57:16 kid1| Process ID 2403
+2021/05/21 13:57:16 kid1| Process Roles: worker
+2021/05/21 13:57:16 kid1| With 1024 file descriptors available
+2021/05/21 13:57:16 kid1| Initializing IP Cache...
+2021/05/21 13:57:16 kid1| DNS Socket created at [::], FD 5
+2021/05/21 13:57:16 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 13:57:16 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 13:57:16 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 13:57:16 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 13:57:16 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 13:57:16 kid1| ipcCreate: fork: (12) Cannot allocate memory
+2021/05/21 13:57:16 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 13:57:16 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 13:57:16 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2021/05/21 13:57:16 kid1| FATAL: Couldn't start logfile helper
+2021/05/21 13:57:16 kid1| Squid Cache (Version 4.6): Terminated abnormally.
+CPU Usage: 14.806 seconds = 13.245 user + 1.561 sys
+Maximum Resident Size: 3592976 KB
+Page faults with physical i/o: 16
+2021/05/21 13:57:28 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:57:28 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 13:57:28 kid1| Service Name: squid
+2021/05/21 13:57:28 kid1| Process ID 2405
+2021/05/21 13:57:28 kid1| Process Roles: worker
+2021/05/21 13:57:28 kid1| With 1024 file descriptors available
+2021/05/21 13:57:28 kid1| Initializing IP Cache...
+2021/05/21 13:57:28 kid1| DNS Socket created at [::], FD 5
+2021/05/21 13:57:28 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 13:57:28 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 13:57:28 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 13:57:28 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 13:57:28 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 13:57:28 kid1| ipcCreate: fork: (12) Cannot allocate memory
+2021/05/21 13:57:28 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 13:57:28 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 13:57:28 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2021/05/21 13:57:28 kid1| FATAL: Couldn't start logfile helper
+2021/05/21 13:57:28 kid1| Squid Cache (Version 4.6): Terminated abnormally.
+CPU Usage: 11.822 seconds = 10.520 user + 1.302 sys
+Maximum Resident Size: 3591248 KB
+Page faults with physical i/o: 0
+2021/05/21 13:57:41 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:57:41 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 13:57:41 kid1| Service Name: squid
+2021/05/21 13:57:41 kid1| Process ID 2407
+2021/05/21 13:57:41 kid1| Process Roles: worker
+2021/05/21 13:57:41 kid1| With 1024 file descriptors available
+2021/05/21 13:57:41 kid1| Initializing IP Cache...
+2021/05/21 13:57:41 kid1| DNS Socket created at [::], FD 5
+2021/05/21 13:57:41 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 13:57:41 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 13:57:41 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 13:57:41 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 13:57:41 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 13:57:41 kid1| ipcCreate: fork: (12) Cannot allocate memory
+2021/05/21 13:57:41 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 13:57:41 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 13:57:41 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2021/05/21 13:57:41 kid1| FATAL: Couldn't start logfile helper
+2021/05/21 13:57:41 kid1| Squid Cache (Version 4.6): Terminated abnormally.
+CPU Usage: 12.382 seconds = 11.146 user + 1.236 sys
+Maximum Resident Size: 3591328 KB
+Page faults with physical i/o: 0
+2021/05/21 13:57:50 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:57:50 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 13:57:50 kid1| Service Name: squid
+2021/05/21 13:57:50 kid1| Process ID 2409
+2021/05/21 13:57:50 kid1| Process Roles: worker
+2021/05/21 13:57:50 kid1| With 1024 file descriptors available
+2021/05/21 13:57:50 kid1| Initializing IP Cache...
+2021/05/21 13:57:50 kid1| DNS Socket created at [::], FD 5
+2021/05/21 13:57:50 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 13:57:50 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 13:57:50 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 13:57:50 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 13:57:50 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 13:57:50 kid1| ipcCreate: fork: (12) Cannot allocate memory
+2021/05/21 13:57:50 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 13:57:50 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 13:57:50 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2021/05/21 13:57:50 kid1| FATAL: Couldn't start logfile helper
+2021/05/21 13:57:50 kid1| Squid Cache (Version 4.6): Terminated abnormally.
+CPU Usage: 9.090 seconds = 8.418 user + 0.672 sys
+Maximum Resident Size: 3592112 KB
+Page faults with physical i/o: 0
+2021/05/21 13:57:58 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:57:58 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 13:57:58 kid1| Service Name: squid
+2021/05/21 13:57:58 kid1| Process ID 2411
+2021/05/21 13:57:58 kid1| Process Roles: worker
+2021/05/21 13:57:58 kid1| With 1024 file descriptors available
+2021/05/21 13:57:58 kid1| Initializing IP Cache...
+2021/05/21 13:57:58 kid1| DNS Socket created at [::], FD 5
+2021/05/21 13:57:58 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 13:57:58 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 13:57:58 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 13:57:58 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 13:57:58 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 13:57:58 kid1| ipcCreate: fork: (12) Cannot allocate memory
+2021/05/21 13:57:58 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 13:57:58 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 13:57:58 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2021/05/21 13:57:58 kid1| FATAL: Couldn't start logfile helper
+2021/05/21 13:57:58 kid1| Squid Cache (Version 4.6): Terminated abnormally.
+CPU Usage: 8.260 seconds = 7.603 user + 0.658 sys
+Maximum Resident Size: 3592000 KB
+Page faults with physical i/o: 0
+2021/05/21 13:58:09 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:58:09 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 13:58:09 kid1| Service Name: squid
+2021/05/21 13:58:09 kid1| Process ID 2413
+2021/05/21 13:58:09 kid1| Process Roles: worker
+2021/05/21 13:58:09 kid1| With 1024 file descriptors available
+2021/05/21 13:58:09 kid1| Initializing IP Cache...
+2021/05/21 13:58:09 kid1| DNS Socket created at [::], FD 5
+2021/05/21 13:58:09 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 13:58:09 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 13:58:09 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 13:58:09 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 13:58:09 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 13:58:09 kid1| ipcCreate: fork: (12) Cannot allocate memory
+2021/05/21 13:58:09 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 13:58:09 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 13:58:09 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2021/05/21 13:58:09 kid1| FATAL: Couldn't start logfile helper
+2021/05/21 13:58:09 kid1| Squid Cache (Version 4.6): Terminated abnormally.
+CPU Usage: 10.426 seconds = 9.394 user + 1.032 sys
+Maximum Resident Size: 3592544 KB
+Page faults with physical i/o: 0
+2021/05/21 13:58:18 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:58:18 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 13:58:18 kid1| Service Name: squid
+2021/05/21 13:58:18 kid1| Process ID 2415
+2021/05/21 13:58:18 kid1| Process Roles: worker
+2021/05/21 13:58:18 kid1| With 1024 file descriptors available
+2021/05/21 13:58:18 kid1| Initializing IP Cache...
+2021/05/21 13:58:18 kid1| DNS Socket created at [::], FD 5
+2021/05/21 13:58:18 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 13:58:18 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 13:58:18 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 13:58:18 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 13:58:18 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 13:58:18 kid1| ipcCreate: fork: (12) Cannot allocate memory
+2021/05/21 13:58:18 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 13:58:18 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 13:58:18 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2021/05/21 13:58:18 kid1| FATAL: Couldn't start logfile helper
+2021/05/21 13:58:18 kid1| Squid Cache (Version 4.6): Terminated abnormally.
+CPU Usage: 8.582 seconds = 7.834 user + 0.748 sys
+Maximum Resident Size: 3591984 KB
+Page faults with physical i/o: 0
+2021/05/21 13:58:26 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:58:26 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 13:58:26 kid1| Service Name: squid
+2021/05/21 13:58:26 kid1| Process ID 2418
+2021/05/21 13:58:26 kid1| Process Roles: worker
+2021/05/21 13:58:26 kid1| With 1024 file descriptors available
+2021/05/21 13:58:26 kid1| Initializing IP Cache...
+2021/05/21 13:58:26 kid1| DNS Socket created at [::], FD 5
+2021/05/21 13:58:26 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 13:58:26 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 13:58:26 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 13:58:26 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 13:58:26 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 13:58:26 kid1| ipcCreate: fork: (12) Cannot allocate memory
+2021/05/21 13:58:26 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 13:58:26 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 13:58:26 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2021/05/21 13:58:26 kid1| FATAL: Couldn't start logfile helper
+2021/05/21 13:58:26 kid1| Squid Cache (Version 4.6): Terminated abnormally.
+CPU Usage: 8.371 seconds = 7.649 user + 0.722 sys
+Maximum Resident Size: 3591328 KB
+Page faults with physical i/o: 0
+2021/05/21 13:58:35 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:58:35 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 13:58:35 kid1| Service Name: squid
+2021/05/21 13:58:35 kid1| Process ID 2420
+2021/05/21 13:58:35 kid1| Process Roles: worker
+2021/05/21 13:58:35 kid1| With 1024 file descriptors available
+2021/05/21 13:58:35 kid1| Initializing IP Cache...
+2021/05/21 13:58:35 kid1| DNS Socket created at [::], FD 5
+2021/05/21 13:58:35 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 13:58:35 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 13:58:35 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 13:58:35 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 13:58:35 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 13:58:35 kid1| ipcCreate: fork: (12) Cannot allocate memory
+2021/05/21 13:58:35 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 13:58:35 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 13:58:35 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2021/05/21 13:58:35 kid1| FATAL: Couldn't start logfile helper
+2021/05/21 13:58:35 kid1| Squid Cache (Version 4.6): Terminated abnormally.
+CPU Usage: 8.323 seconds = 7.608 user + 0.715 sys
+Maximum Resident Size: 3592368 KB
+Page faults with physical i/o: 1
+2021/05/21 13:58:45 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:58:45 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 13:58:45 kid1| Service Name: squid
+2021/05/21 13:58:45 kid1| Process ID 2422
+2021/05/21 13:58:45 kid1| Process Roles: worker
+2021/05/21 13:58:45 kid1| With 1024 file descriptors available
+2021/05/21 13:58:45 kid1| Initializing IP Cache...
+2021/05/21 13:58:45 kid1| DNS Socket created at [::], FD 5
+2021/05/21 13:58:45 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 13:58:45 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 13:58:45 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 13:58:45 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 13:58:45 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 13:58:45 kid1| ipcCreate: fork: (12) Cannot allocate memory
+2021/05/21 13:58:45 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 13:58:45 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 13:58:45 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2021/05/21 13:58:45 kid1| FATAL: Couldn't start logfile helper
+2021/05/21 13:58:45 kid1| Squid Cache (Version 4.6): Terminated abnormally.
+CPU Usage: 9.695 seconds = 8.875 user + 0.820 sys
+Maximum Resident Size: 3593104 KB
+Page faults with physical i/o: 0
+2021/05/21 13:58:53 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:58:53 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 13:58:53 kid1| Service Name: squid
+2021/05/21 13:58:53 kid1| Process ID 2424
+2021/05/21 13:58:53 kid1| Process Roles: worker
+2021/05/21 13:58:53 kid1| With 1024 file descriptors available
+2021/05/21 13:58:53 kid1| Initializing IP Cache...
+2021/05/21 13:58:53 kid1| DNS Socket created at [::], FD 5
+2021/05/21 13:58:53 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 13:58:53 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 13:58:53 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 13:58:53 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 13:58:53 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 13:58:53 kid1| ipcCreate: fork: (12) Cannot allocate memory
+2021/05/21 13:58:53 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 13:58:53 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 13:58:53 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2021/05/21 13:58:53 kid1| FATAL: Couldn't start logfile helper
+2021/05/21 13:58:53 kid1| Squid Cache (Version 4.6): Terminated abnormally.
+CPU Usage: 8.314 seconds = 7.663 user + 0.651 sys
+Maximum Resident Size: 3591424 KB
+Page faults with physical i/o: 0
+2021/05/21 13:59:01| Removing PID file (/var/run/squid.pid)
+2021/05/21 13:59:09| Created PID file (/var/run/squid.pid)
+2021/05/21 13:59:19 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:59:19 kid1| Creating missing swap directories
+2021/05/21 13:59:19 kid1| No cache_dir stores are configured.
+2021/05/21 13:59:19| Removing PID file (/var/run/squid.pid)
+2021/05/21 13:59:29| Created PID file (/var/run/squid.pid)
+2021/05/21 13:59:38 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:59:38 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 13:59:38 kid1| Service Name: squid
+2021/05/21 13:59:38 kid1| Process ID 2448
+2021/05/21 13:59:38 kid1| Process Roles: worker
+2021/05/21 13:59:38 kid1| With 1024 file descriptors available
+2021/05/21 13:59:38 kid1| Initializing IP Cache...
+2021/05/21 13:59:38 kid1| DNS Socket created at [::], FD 5
+2021/05/21 13:59:38 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 13:59:38 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 13:59:38 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 13:59:38 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 13:59:38 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 13:59:38 kid1| ipcCreate: fork: (12) Cannot allocate memory
+2021/05/21 13:59:38 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 13:59:38 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 13:59:38 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2021/05/21 13:59:38 kid1| FATAL: Couldn't start logfile helper
+2021/05/21 13:59:38 kid1| Squid Cache (Version 4.6): Terminated abnormally.
+CPU Usage: 8.897 seconds = 8.087 user + 0.810 sys
+Maximum Resident Size: 3591792 KB
+Page faults with physical i/o: 6
+2021/05/21 13:59:50 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:59:50 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 13:59:50 kid1| Service Name: squid
+2021/05/21 13:59:50 kid1| Process ID 2463
+2021/05/21 13:59:50 kid1| Process Roles: worker
+2021/05/21 13:59:50 kid1| With 1024 file descriptors available
+2021/05/21 13:59:50 kid1| Initializing IP Cache...
+2021/05/21 13:59:50 kid1| DNS Socket created at [::], FD 5
+2021/05/21 13:59:50 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 13:59:50 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 13:59:50 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 13:59:50 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 13:59:50 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 13:59:50 kid1| ipcCreate: fork: (12) Cannot allocate memory
+2021/05/21 13:59:50 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 13:59:50 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 13:59:50 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2021/05/21 13:59:50 kid1| FATAL: Couldn't start logfile helper
+2021/05/21 13:59:50 kid1| Squid Cache (Version 4.6): Terminated abnormally.
+CPU Usage: 11.708 seconds = 10.544 user + 1.164 sys
+Maximum Resident Size: 3591616 KB
+Page faults with physical i/o: 41
+2021/05/21 13:59:58 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 13:59:58 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 13:59:58 kid1| Service Name: squid
+2021/05/21 13:59:58 kid1| Process ID 2465
+2021/05/21 13:59:58 kid1| Process Roles: worker
+2021/05/21 13:59:58 kid1| With 1024 file descriptors available
+2021/05/21 13:59:58 kid1| Initializing IP Cache...
+2021/05/21 13:59:58 kid1| DNS Socket created at [::], FD 5
+2021/05/21 13:59:58 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 13:59:58 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 13:59:58 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 13:59:58 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 13:59:58 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 13:59:58 kid1| ipcCreate: fork: (12) Cannot allocate memory
+2021/05/21 13:59:58 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 13:59:58 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 13:59:58 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2021/05/21 13:59:58 kid1| FATAL: Couldn't start logfile helper
+2021/05/21 13:59:58 kid1| Squid Cache (Version 4.6): Terminated abnormally.
+CPU Usage: 8.327 seconds = 7.564 user + 0.763 sys
+Maximum Resident Size: 3591520 KB
+Page faults with physical i/o: 0
+2021/05/21 14:00:13 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 14:00:13 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 14:00:13 kid1| Service Name: squid
+2021/05/21 14:00:13 kid1| Process ID 2467
+2021/05/21 14:00:13 kid1| Process Roles: worker
+2021/05/21 14:00:13 kid1| With 1024 file descriptors available
+2021/05/21 14:00:13 kid1| Initializing IP Cache...
+2021/05/21 14:00:13 kid1| DNS Socket created at [::], FD 5
+2021/05/21 14:00:13 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 14:00:13 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 14:00:13 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 14:00:13 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 14:00:13 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 14:00:13 kid1| ipcCreate: fork: (12) Cannot allocate memory
+2021/05/21 14:00:13 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 14:00:13 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 14:00:13 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2021/05/21 14:00:13 kid1| FATAL: Couldn't start logfile helper
+2021/05/21 14:00:13 kid1| Squid Cache (Version 4.6): Terminated abnormally.
+CPU Usage: 14.275 seconds = 12.879 user + 1.396 sys
+Maximum Resident Size: 3590368 KB
+Page faults with physical i/o: 0
+2021/05/21 14:00:24 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 14:00:24 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 14:00:24 kid1| Service Name: squid
+2021/05/21 14:00:24 kid1| Process ID 2469
+2021/05/21 14:00:24 kid1| Process Roles: worker
+2021/05/21 14:00:24 kid1| With 1024 file descriptors available
+2021/05/21 14:00:24 kid1| Initializing IP Cache...
+2021/05/21 14:00:24 kid1| DNS Socket created at [::], FD 5
+2021/05/21 14:00:24 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 14:00:24 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 14:00:24 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 14:00:24 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 14:00:24 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 14:00:24 kid1| ipcCreate: fork: (12) Cannot allocate memory
+2021/05/21 14:00:24 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 14:00:24 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 14:00:24 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2021/05/21 14:00:24 kid1| FATAL: Couldn't start logfile helper
+2021/05/21 14:00:24 kid1| Squid Cache (Version 4.6): Terminated abnormally.
+CPU Usage: 10.429 seconds = 9.458 user + 0.971 sys
+Maximum Resident Size: 3590592 KB
+Page faults with physical i/o: 0
+2021/05/21 14:00:33 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 14:00:33 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 14:00:33 kid1| Service Name: squid
+2021/05/21 14:00:33 kid1| Process ID 2471
+2021/05/21 14:00:33 kid1| Process Roles: worker
+2021/05/21 14:00:33 kid1| With 1024 file descriptors available
+2021/05/21 14:00:33 kid1| Initializing IP Cache...
+2021/05/21 14:00:33 kid1| DNS Socket created at [::], FD 5
+2021/05/21 14:00:33 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 14:00:33 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 14:00:33 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 14:00:33 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 14:00:33 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 14:00:33 kid1| ipcCreate: fork: (12) Cannot allocate memory
+2021/05/21 14:00:33 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 14:00:33 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 14:00:33 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2021/05/21 14:00:33 kid1| FATAL: Couldn't start logfile helper
+2021/05/21 14:00:33 kid1| Squid Cache (Version 4.6): Terminated abnormally.
+CPU Usage: 9.033 seconds = 8.246 user + 0.788 sys
+Maximum Resident Size: 3589824 KB
+Page faults with physical i/o: 0
+2021/05/21 14:00:43 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 14:00:43 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 14:00:43 kid1| Service Name: squid
+2021/05/21 14:00:43 kid1| Process ID 2473
+2021/05/21 14:00:43 kid1| Process Roles: worker
+2021/05/21 14:00:43 kid1| With 1024 file descriptors available
+2021/05/21 14:00:43 kid1| Initializing IP Cache...
+2021/05/21 14:00:43 kid1| DNS Socket created at [::], FD 5
+2021/05/21 14:00:43 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 14:00:43 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 14:00:43 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 14:00:43 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 14:00:43 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 14:00:43 kid1| ipcCreate: fork: (12) Cannot allocate memory
+2021/05/21 14:00:43 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 14:00:43 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 14:00:43 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2021/05/21 14:00:43 kid1| FATAL: Couldn't start logfile helper
+2021/05/21 14:00:43 kid1| Squid Cache (Version 4.6): Terminated abnormally.
+CPU Usage: 9.478 seconds = 8.608 user + 0.870 sys
+Maximum Resident Size: 3590112 KB
+Page faults with physical i/o: 0
+2021/05/21 14:00:51 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 14:00:51 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 14:00:51 kid1| Service Name: squid
+2021/05/21 14:00:51 kid1| Process ID 2475
+2021/05/21 14:00:51 kid1| Process Roles: worker
+2021/05/21 14:00:51 kid1| With 1024 file descriptors available
+2021/05/21 14:00:51 kid1| Initializing IP Cache...
+2021/05/21 14:00:51 kid1| DNS Socket created at [::], FD 5
+2021/05/21 14:00:51 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 14:00:51 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 14:00:51 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 14:00:51 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 14:00:51 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 14:00:51 kid1| ipcCreate: fork: (12) Cannot allocate memory
+2021/05/21 14:00:51 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 14:00:51 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 14:00:51 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2021/05/21 14:00:51 kid1| FATAL: Couldn't start logfile helper
+2021/05/21 14:00:51 kid1| Squid Cache (Version 4.6): Terminated abnormally.
+CPU Usage: 8.591 seconds = 7.831 user + 0.761 sys
+Maximum Resident Size: 3591232 KB
+Page faults with physical i/o: 0
+2021/05/21 14:01:02 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 14:01:02 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 14:01:02 kid1| Service Name: squid
+2021/05/21 14:01:02 kid1| Process ID 2478
+2021/05/21 14:01:02 kid1| Process Roles: worker
+2021/05/21 14:01:02 kid1| With 1024 file descriptors available
+2021/05/21 14:01:02 kid1| Initializing IP Cache...
+2021/05/21 14:01:02 kid1| DNS Socket created at [::], FD 5
+2021/05/21 14:01:02 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 14:01:02 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 14:01:02 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 14:01:02 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 14:01:02 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 14:01:02 kid1| ipcCreate: fork: (12) Cannot allocate memory
+2021/05/21 14:01:02 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 14:01:02 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 14:01:02 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2021/05/21 14:01:02 kid1| FATAL: Couldn't start logfile helper
+2021/05/21 14:01:02 kid1| Squid Cache (Version 4.6): Terminated abnormally.
+CPU Usage: 10.022 seconds = 9.115 user + 0.906 sys
+Maximum Resident Size: 3591552 KB
+Page faults with physical i/o: 0
+2021/05/21 14:01:10 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 14:01:10 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 14:01:10 kid1| Service Name: squid
+2021/05/21 14:01:10 kid1| Process ID 2480
+2021/05/21 14:01:10 kid1| Process Roles: worker
+2021/05/21 14:01:10 kid1| With 1024 file descriptors available
+2021/05/21 14:01:10 kid1| Initializing IP Cache...
+2021/05/21 14:01:10 kid1| DNS Socket created at [::], FD 5
+2021/05/21 14:01:10 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 14:01:10 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 14:01:10 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 14:01:10 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 14:01:10 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 14:01:10 kid1| ipcCreate: fork: (12) Cannot allocate memory
+2021/05/21 14:01:10 kid1| storeDirWriteCleanLogs: Starting...
+2021/05/21 14:01:10 kid1|   Finished.  Wrote 0 entries.
+2021/05/21 14:01:10 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2021/05/21 14:01:10 kid1| FATAL: Couldn't start logfile helper
+2021/05/21 14:01:10 kid1| Squid Cache (Version 4.6): Terminated abnormally.
+CPU Usage: 8.511 seconds = 7.792 user + 0.719 sys
+Maximum Resident Size: 3591776 KB
+Page faults with physical i/o: 0
+2021/05/21 14:01:17| Removing PID file (/var/run/squid.pid)
+2021/05/21 14:01:21| Created PID file (/var/run/squid.pid)
+2021/05/21 14:01:25 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 14:01:25 kid1| Creating missing swap directories
+2021/05/21 14:01:25 kid1| No cache_dir stores are configured.
+2021/05/21 14:01:25| Removing PID file (/var/run/squid.pid)
+2021/05/21 14:01:30| Created PID file (/var/run/squid.pid)
+2021/05/21 14:01:34 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 14:01:34 kid1| Starting Squid Cache version 4.6 for x86_64-pc-linux-gnu...
+2021/05/21 14:01:34 kid1| Service Name: squid
+2021/05/21 14:01:34 kid1| Process ID 2502
+2021/05/21 14:01:34 kid1| Process Roles: worker
+2021/05/21 14:01:34 kid1| With 1024 file descriptors available
+2021/05/21 14:01:34 kid1| Initializing IP Cache...
+2021/05/21 14:01:34 kid1| DNS Socket created at [::], FD 5
+2021/05/21 14:01:34 kid1| DNS Socket created at 0.0.0.0, FD 9
+2021/05/21 14:01:34 kid1| Adding nameserver 179.51.50.202 from /etc/resolv.conf
+2021/05/21 14:01:34 kid1| Adding nameserver 179.51.50.203 from /etc/resolv.conf
+2021/05/21 14:01:34 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2021/05/21 14:01:34 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2021/05/21 14:01:34 kid1| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2021/05/21 14:01:34 kid1| Store logging disabled
+2021/05/21 14:01:34 kid1| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2021/05/21 14:01:34 kid1| Target number of buckets: 1008
+2021/05/21 14:01:34 kid1| Using 8192 Store buckets
+2021/05/21 14:01:34 kid1| Max Mem  size: 262144 KB
+2021/05/21 14:01:34 kid1| Max Swap size: 0 KB
+2021/05/21 14:01:34 kid1| Using Least Load store dir selection
+2021/05/21 14:01:34 kid1| Set Current Directory to /var/spool/squid
+2021/05/21 14:01:34 kid1| Finished loading MIME types and icons.
+2021/05/21 14:01:34 kid1| HTCP Disabled.
+2021/05/21 14:01:34 kid1| Pinger socket opened on FD 15
+2021/05/21 14:01:34 kid1| Squid plugin modules loaded: 0
+2021/05/21 14:01:34 kid1| Adaptation support is off.
+2021/05/21 14:01:34 kid1| Accepting HTTP Socket connections at local=[::]:3128 remote=[::] FD 12 flags=9
+2021/05/21 14:01:34 kid1| Accepting HTTP Socket connections at local=[::]:8080 remote=[::] FD 13 flags=9
+2021/05/21 14:01:34| pinger: Initialising ICMP pinger ...
+2021/05/21 14:01:34| pinger: ICMP socket opened.
+2021/05/21 14:01:34| pinger: ICMPv6 socket opened
+2021/05/21 14:01:35 kid1| storeLateRelease: released 0 objects
+2021/05/21 14:01:41| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:800::200d]: (101) Network is unreachable
+2021/05/21 14:01:42| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:811::2003]: (101) Network is unreachable
+2021/05/21 14:02:01| SendEcho ERROR: sending to ICMPv6 packet to [2a03:2880:f1ff:83:face:b00c:0:25de]: (101) Network is unreachable
+2021/05/21 14:02:01| SendEcho ERROR: sending to ICMPv6 packet to [2a03:2880:f0ff:c:face:b00c:0:3]: (101) Network is unreachable
+2021/05/21 14:02:13| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:805::200a]: (101) Network is unreachable
+2021/05/21 14:02:14| SendEcho ERROR: sending to ICMPv6 packet to [2a03:2880:f0ff:b:face:b00c:0:8c]: (101) Network is unreachable
+2021/05/21 14:03:31| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:812::200e]: (101) Network is unreachable
+2021/05/21 14:03:38| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:801::200a]: (101) Network is unreachable
+2021/05/21 14:03:43| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:80e::2003]: (101) Network is unreachable
+2021/05/21 14:03:55| SendEcho ERROR: sending to ICMPv6 packet to [2620:1ec:c11::200]: (101) Network is unreachable
+2021/05/21 14:04:41| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:803::2003]: (101) Network is unreachable
+2021/05/21 14:04:43| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:806::2003]: (101) Network is unreachable
+2021/05/21 14:04:46| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:802::200e]: (101) Network is unreachable
+2021/05/21 14:11:26| SendEcho ERROR: sending to ICMPv6 packet to [2600:1403:5400:59c::611]: (101) Network is unreachable
+2021/05/21 14:11:55| SendEcho ERROR: sending to ICMPv6 packet to [2620:1ec:c11::200]: (101) Network is unreachable
+2021/05/21 14:12:04| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:80e::2003]: (101) Network is unreachable
+2021/05/21 14:12:04| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:804::200d]: (101) Network is unreachable
+2021/05/21 14:12:10| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:802::2003]: (101) Network is unreachable
+2021/05/21 14:12:11| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:800::2004]: (101) Network is unreachable
+2021/05/21 14:12:30| SendEcho ERROR: sending to ICMPv6 packet to [2600:1403:5400:588::57]: (101) Network is unreachable
+2021/05/21 14:12:38| SendEcho ERROR: sending to ICMPv6 packet to [2620:1ec:bdf::57]: (101) Network is unreachable
+2021/05/21 14:12:44| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:803::2003]: (101) Network is unreachable
+2021/05/21 14:13:05| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:80d::2003]: (101) Network is unreachable
+2021/05/21 14:15:45| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:813::200e]: (101) Network is unreachable
+2021/05/21 14:15:49| SendEcho ERROR: sending to ICMPv6 packet to [2a03:2880:f1ff:83:face:b00c:0:25de]: (101) Network is unreachable
+2021/05/21 14:15:53| SendEcho ERROR: sending to ICMPv6 packet to [2a03:2880:f0ff:c:face:b00c:0:3]: (101) Network is unreachable
+2021/05/21 14:15:54| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:811::200a]: (101) Network is unreachable
+2021/05/21 14:15:59| SendEcho ERROR: sending to ICMPv6 packet to [2a03:2880:f0ff:b:face:b00c:0:8c]: (101) Network is unreachable
+2021/05/21 14:16:38| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:400c:c0d::9c]: (101) Network is unreachable
+2021/05/21 14:16:42| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:801::2002]: (101) Network is unreachable
+2021/05/21 14:16:43| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:810::200e]: (101) Network is unreachable
+2021/05/21 14:16:46| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:805::2003]: (101) Network is unreachable
+2021/05/21 14:16:53| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:80f::2008]: (101) Network is unreachable
+2021/05/21 14:17:57| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:80e::2003]: (101) Network is unreachable
+2021/05/21 14:23:24| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:800::200d]: (101) Network is unreachable
+2021/05/21 14:23:24| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:813::2003]: (101) Network is unreachable
+2021/05/21 14:23:33| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:803::2003]: (101) Network is unreachable
+2021/05/21 14:23:35| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:80d::2003]: (101) Network is unreachable
+2021/05/21 14:23:36| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:812::200e]: (101) Network is unreachable
+2021/05/21 14:23:36| SendEcho ERROR: sending to ICMPv6 packet to [2a03:2880:f1ff:83:face:b00c:0:25de]: (101) Network is unreachable
+2021/05/21 14:23:36| SendEcho ERROR: sending to ICMPv6 packet to [2a03:2880:f0ff:c:face:b00c:0:3]: (101) Network is unreachable
+2021/05/21 14:23:47| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:811::200a]: (101) Network is unreachable
+2021/05/21 14:23:47| SendEcho ERROR: sending to ICMPv6 packet to [2a03:2880:f0ff:b:face:b00c:0:8c]: (101) Network is unreachable
+2021/05/21 14:24:10| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:806::200e]: (101) Network is unreachable
+2021/05/21 14:24:10| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:80e::200a]: (101) Network is unreachable
+2021/05/21 14:24:17| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:810::2016]: (101) Network is unreachable
+2021/05/21 14:25:55| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:802::2002]: (101) Network is unreachable
+2021/05/21 14:29:55| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:80f::2010]: (101) Network is unreachable
+2021/05/21 14:31:56| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:804::200d]: (101) Network is unreachable
+2021/05/21 14:31:57| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:80e::2003]: (101) Network is unreachable
+2021/05/21 14:32:03| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:800::2004]: (101) Network is unreachable
+2021/05/21 14:32:19| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:803::2003]: (101) Network is unreachable
+2021/05/21 14:32:21| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:802::200e]: (101) Network is unreachable
+2021/05/21 14:32:21| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:80d::2003]: (101) Network is unreachable
+2021/05/21 14:32:31| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:812::200e]: (101) Network is unreachable
+2021/05/21 14:32:35| SendEcho ERROR: sending to ICMPv6 packet to [2a03:2880:f1ff:83:face:b00c:0:25de]: (101) Network is unreachable
+2021/05/21 14:32:35| SendEcho ERROR: sending to ICMPv6 packet to [2a03:2880:f0ff:c:face:b00c:0:3]: (101) Network is unreachable
+2021/05/21 14:32:38| SendEcho ERROR: sending to ICMPv6 packet to [2a03:2880:f2ff:c3:face:b00c:0:1cc9]: (101) Network is unreachable
+2021/05/21 14:32:55| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:806::200a]: (101) Network is unreachable
+2021/05/21 14:32:55| SendEcho ERROR: sending to ICMPv6 packet to [2a03:2880:f0ff:b:face:b00c:0:8c]: (101) Network is unreachable
+2021/05/21 14:33:23| SendEcho ERROR: sending to ICMPv6 packet to [2606:4700:10::6816:35b5]: (101) Network is unreachable
+2021/05/21 14:33:57| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:810::200e]: (101) Network is unreachable
+2021/05/21 14:37:51| SendEcho ERROR: sending to ICMPv6 packet to [2a03:2880:f1ff:83:face:b00c:0:25de]: (101) Network is unreachable
+2021/05/21 14:46:59 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2021/05/21 14:46:59 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2021/05/21 14:46:59 kid1| NETDB state saved; 21 entries, 8 msec
+2021/05/21 14:52:28| FATAL: Squid is already running: Found fresh instance PID file (/var/run/squid.pid) with PID 2497
+    exception location: Instance.cc(121) ThrowIfAlreadyRunningWith
+
+2021/05/21 14:55:35| SendEcho ERROR: sending to ICMPv6 packet to [2620:1ec:c11::200]: (101) Network is unreachable
+2021/05/21 14:58:57| SendEcho ERROR: sending to ICMPv6 packet to [2a03:2880:f1ff:83:face:b00c:0:25de]: (101) Network is unreachable
+2021/05/21 15:01:56| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:813::2003]: (101) Network is unreachable
+2021/05/21 15:03:10| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:806::200a]: (101) Network is unreachable
+2021/05/21 15:23:58| SendEcho ERROR: sending to ICMPv6 packet to [2a03:2880:f1ff:83:face:b00c:0:25de]: (101) Network is unreachable
+2021/05/21 15:25:21| SendEcho ERROR: sending to ICMPv6 packet to [2620:1ec:c11::200]: (101) Network is unreachable
+2021/05/21 15:27:01| SendEcho ERROR: sending to ICMPv6 packet to [2600:1403:5400::b81b:c9d1]: (101) Network is unreachable
+2021/05/21 15:31:56| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:813::2003]: (101) Network is unreachable
+2021/05/21 15:32:47| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:805::200a]: (101) Network is unreachable
+2021/05/21 15:52:35| SendEcho ERROR: sending to ICMPv6 packet to [2620:1ec:c11::200]: (101) Network is unreachable
+2021/05/21 16:05:45 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2021/05/21 16:05:45 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2021/05/21 16:05:45 kid1| NETDB state saved; 24 entries, 3 msec
+2021/05/21 16:29:06| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:805::200a]: (101) Network is unreachable
+2021/05/21 16:32:00| SendEcho ERROR: sending to ICMPv6 packet to [2607:f8b0:4008:813::2003]: (101) Network is unreachable
